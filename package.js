@@ -1,6 +1,6 @@
 Package.describe({
   name: 'ildar:famous',
-  version: '0.5.0_1',
+  version: '0.5.2',
   summary: 'Famous packaged for Meteor',
   git: 'https://github.com/ildarsamit/famous',
   documentation: 'README.md'
